@@ -4,3 +4,5 @@
 chat_history.json
 Cargo.lock
 .cargo/config.toml
+*.zip
+vosk-linux-x86_64-*/
