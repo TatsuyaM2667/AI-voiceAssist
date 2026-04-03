@@ -1,0 +1,6 @@
+/target
+/sessions
+/vosk-model-jp
+chat_history.json
+Cargo.lock
+.cargo/config.toml
